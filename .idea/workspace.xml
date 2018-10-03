@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="066c1df4-4825-431f-818d-0d18e0610484" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/character/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/character/CharacterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/character/CharacterRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/creator/Creator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/creator/CreatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/creator/CreatorRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/event/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/event/EventController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/event/EventRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/series/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/series/SeriesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/series/SeriesRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/story/Story.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/story/StoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/story/StoryRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdn-marvel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sdn-marvel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/issuesgraph.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/issuesgraph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/issuesgraph.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/issuesgraph.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,34 +17,39 @@
     <session id="-1641551725">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="4" />
-          <entry key="java" value="38" />
+          <entry key="html" value="5" />
+          <entry key="java" value="39" />
           <entry key="properties" value="4" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="4" />
-          <entry key="JAVA" value="38" />
+          <entry key="HTML" value="5" />
+          <entry key="JAVA" value="39" />
           <entry key="Properties" value="4" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="html" value="3" />
           <entry key="java" value="59" />
           <entry key="xml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="3" />
           <entry key="JAVA" value="59" />
           <entry key="XML" value="12" />
         </counts>
@@ -79,14 +57,27 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-841">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <state relative-caret-position="1230">
+              <caret line="84" column="90" selection-start-line="84" selection-start-column="90" selection-end-line="84" selection-end-column="90" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/issuesgraph.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="135" column="157" selection-start-line="135" selection-start-column="157" selection-end-line="135" selection-end-column="157" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,38 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueRepo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/character/Character.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -150,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/series/SeriesRepo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/issuesgraph.html" />
       </list>
     </option>
   </component>
@@ -167,10 +130,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="150" />
+    <option name="x" value="396" />
     <option name="y" value="23" />
-    <option name="width" value="1491" />
-    <option name="height" value="931" />
+    <option name="width" value="1643" />
+    <option name="height" value="1115" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -178,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -304,10 +266,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sdn-marvel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdn-marvel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -318,7 +289,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538519020450" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538519023272" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
@@ -367,51 +338,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538513645759</updated>
-      <workItem from="1538513647625" duration="4586000" />
+      <workItem from="1538513647625" duration="5087000" />
+      <workItem from="1538587146696" duration="588000" />
+      <workItem from="1538587936207" duration="946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4586000" />
+    <option name="totallyTimeSpent" value="6621000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="150" y="23" width="1491" height="931" extended-state="0" />
+    <frame x="396" y="23" width="1643" height="1115" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Image Layers" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24982747" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23173016" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Graph Database Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32896304" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32844576" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Graph Database" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Graph Database Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Graph Database" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,16 +428,6 @@
           <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/issuesgraph.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#style#0;n#img#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -520,25 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/character/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="195">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-841">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -547,15 +493,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="900">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="84" column="90" selection-start-line="84" selection-start-column="90" selection-end-line="84" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thehecklers/sdnmarvel/comicIssue/ComicIssueController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/issuesgraph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="135" column="157" selection-start-line="135" selection-start-column="157" selection-end-line="135" selection-end-column="157" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

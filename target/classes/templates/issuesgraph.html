@@ -4,11 +4,12 @@
         <link rel="stylesheet" href="http://neo4j-contrib.github.io/developer-resources/language-guides/assets/css/main.css">
         <style type="text/css">
             .node { stroke: #222; stroke-width: 1.5px; }
-            .node.issue { fill: #800000; }
-            .node.character { fill: #000099; }
-            .node.series { fill: #888888; }
-            .node.story { fill: #660066; }
-            .node.event { fill: #006600; }
+            .node.issue { fill: #990000; }
+            .node.character { fill: #0000b3; }
+            .node.creator { fill: #00802b; }
+            .node.series { fill: #e6e600; }
+            .node.story { fill: #800080; }
+            .node.event { fill: #a5abb6; }
             .link { stroke: #999; stroke-opacity: .6; stroke-width: 1px; }
         </style>
         <title>Neo4j/Marvel Comics</title>
@@ -132,8 +133,7 @@
                             issue.series.forEach(function (issueSeries) {
                                 var series = issueSeries.name;
                                 var thumbnail = issueSeries.thumbnail;
-                                var rating = issueSeries.rating;
-                                $seriesList.append($("<li><img src='" + thumbnail + "' id='comicSer' style='height: 50px; width: auto'/>  " + series + " " + rating + "</li>"));
+                                $seriesList.append($("<li><img src='" + thumbnail + "' id='comicSer' style='height: 50px; width: auto'/>  " + series + " " + "</li>"));
                             });
                             var $storyList = $("#stories").empty();
                             issue.stories.forEach(function (issueStor) {
